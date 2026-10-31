@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "support": {
+    "web": "https://tzinitzcan.com/soporte/",
+    "contactURL": "https://tzinitzcan.com/api/contact",
+    "formURL": "https://studio.xeenoj.com/api/forms",
+    "formToken": "f0ac9878-6165-4fed-be41-88f9c58b0c56",
+    "formKey": "contactanos",
+    "formLabel": "Contáctanos"
+  }
+}
