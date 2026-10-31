@@ -1,3 +1,24 @@
 {
-  "noticias": []
+  "noticias": [
+    {
+      "id": "prueba-monumentos-1",
+      "fecha": "2026-10-31",
+      "imagen": "noticias/prueba-monumentos.jpg",
+      "titulo": { "es": "Prueba: un tablero de monumentos", "en": "Test: a monuments board" },
+      "barra": { "es": "Prueba: Novedades con foto", "en": "Test: news with a photo" },
+      "texto": { "es": "Este mensaje llegó por internet, sin actualizar la app. El botón te lleva a La Gira.", "en": "This message arrived over the internet, no app update needed. The button takes you to the Tour." },
+      "boton": { "es": "Ir a La Gira", "en": "Go to the Tour" },
+      "enlace": "aperturas://gira",
+      "hasta": "2026-11-07"
+    },
+    {
+      "id": "prueba-web-1",
+      "fecha": "2026-10-30",
+      "titulo": { "es": "Prueba: un mensaje sin foto", "en": "Test: a message without a photo" },
+      "texto": { "es": "Con un botón que abre la página de Aperturas en Safari.", "en": "With a button that opens the Aperturas page in Safari." },
+      "boton": { "es": "Ver la página", "en": "See the page" },
+      "enlace": "https://tzinitzcan.com/aperturas/",
+      "hasta": "2026-11-07"
+    }
+  ]
 }
