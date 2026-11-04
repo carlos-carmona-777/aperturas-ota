@@ -1,0 +1,462 @@
+{
+  "version": 2,
+  "schema": 2,
+  "date": "2026-11-04",
+  "files": {
+    "blancas.ar.json": {
+      "path": "archivos/blancas.ar-953784e91ada.bin",
+      "sha256": "953784e91ada9e26f8c10d858a6631e6f5b7be2aa64bc59a595b88c493dbad22",
+      "bytes": 75373
+    },
+    "blancas.de.json": {
+      "path": "archivos/blancas.de-93bbd0be4e72.bin",
+      "sha256": "93bbd0be4e72a7f805faa153ece58946b856ecacd17186089a8db282075f9bf0",
+      "bytes": 76496
+    },
+    "blancas.el.json": {
+      "path": "archivos/blancas.el-9cf3baad203f.bin",
+      "sha256": "9cf3baad203f20fe6cb3998d9895b67b96d979062f2f0d862e87916222f85c19",
+      "bytes": 85781
+    },
+    "blancas.en.json": {
+      "path": "archivos/blancas.en-80b3689c8b23.bin",
+      "sha256": "80b3689c8b23a633453d72cddc55051f7575aa888023abd1251428944c8c6adb",
+      "bytes": 70675
+    },
+    "blancas.es-ES.json": {
+      "path": "archivos/blancas.es-ES-4eac010f7dab.bin",
+      "sha256": "4eac010f7dabe2022f71487235cec08b235d3fa3f102fb515c3f5b40c01dbe10",
+      "bytes": 262
+    },
+    "blancas.fr.json": {
+      "path": "archivos/blancas.fr-53e206476e3b.bin",
+      "sha256": "53e206476e3b9a57639090b26ff21cd082053f633265090e0c70604acda03aca",
+      "bytes": 73086
+    },
+    "blancas.it.json": {
+      "path": "archivos/blancas.it-e753d4102253.bin",
+      "sha256": "e753d41022530c77dc821380c19eba4e9c5ad26556530b5fb417f754ee4e706a",
+      "bytes": 70610
+    },
+    "blancas.ja.json": {
+      "path": "archivos/blancas.ja-e075a62f588b.bin",
+      "sha256": "e075a62f588b4f10326e93d3977ddf388dbac2b19681b6de577a5db0df247ba7",
+      "bytes": 75318
+    },
+    "blancas.json": {
+      "path": "archivos/blancas-d34c0bad29be.bin",
+      "sha256": "d34c0bad29be4a67df9b3119585f393785a51e83fc8e96555674a40025c72d91",
+      "bytes": 76600
+    },
+    "blancas.ko.json": {
+      "path": "archivos/blancas.ko-ebf9bcabcd2d.bin",
+      "sha256": "ebf9bcabcd2d7e60b937b842d6f4c171d6db93199d190c5cf823cd56e411f2f0",
+      "bytes": 71797
+    },
+    "blancas.pl.json": {
+      "path": "archivos/blancas.pl-5789723c8764.bin",
+      "sha256": "5789723c87646005d60611ac8b7b3253c92688170f7ca023489f36ec7ac9bfb1",
+      "bytes": 74211
+    },
+    "blancas.pt-BR.json": {
+      "path": "archivos/blancas.pt-BR-c982b3fd6710.bin",
+      "sha256": "c982b3fd671087908ba68ab4da6ed936d351d397b712b19d55bf3ee00ca7ac56",
+      "bytes": 70053
+    },
+    "blancas.ru.json": {
+      "path": "archivos/blancas.ru-69e280184be8.bin",
+      "sha256": "69e280184be8303e7c857532c7e80f0fccc67ac9b7ae8ca760348f70ea61b305",
+      "bytes": 83501
+    },
+    "blancas.tr.json": {
+      "path": "archivos/blancas.tr-6be7515a8e05.bin",
+      "sha256": "6be7515a8e053597e2df8d7c6355459801ad627c3f5491bb767efdbadcdebf47",
+      "bytes": 71902
+    },
+    "blancas.uk.json": {
+      "path": "archivos/blancas.uk-eb9ef60067ad.bin",
+      "sha256": "eb9ef60067ad3c03099ed97abe4ee817f9762398d3ecae1086f1cd9da4bc3744",
+      "bytes": 84787
+    },
+    "castigos.ar.json": {
+      "path": "archivos/castigos.ar-c18a3954162a.bin",
+      "sha256": "c18a3954162a283ca707b6b40c03b15e2a7f1c9d5ef70819d026067a355ab2d3",
+      "bytes": 7082
+    },
+    "castigos.de.json": {
+      "path": "archivos/castigos.de-416e10d5a56b.bin",
+      "sha256": "416e10d5a56bb259ce54954b955b31f841156e3398dd58f87186a85785e29f45",
+      "bytes": 7055
+    },
+    "castigos.el.json": {
+      "path": "archivos/castigos.el-90cb09f161f3.bin",
+      "sha256": "90cb09f161f38701e84f54237f1b5a13bfa6271ba867122c12374dc721ebabf9",
+      "bytes": 7811
+    },
+    "castigos.en.json": {
+      "path": "archivos/castigos.en-d8762cd9975e.bin",
+      "sha256": "d8762cd9975e220cf9b4cb06a4a81c032b6c3eede0f3788c50c5aa1ce771f4ed",
+      "bytes": 6420
+    },
+    "castigos.es-ES.json": {
+      "path": "archivos/castigos.es-ES-04864368f11a.bin",
+      "sha256": "04864368f11ae400710cf122d7b51337ce7da1bfa036bb039702340501856381",
+      "bytes": 164
+    },
+    "castigos.fr.json": {
+      "path": "archivos/castigos.fr-effd95de5c79.bin",
+      "sha256": "effd95de5c79a2504e5e1b1a14e6e957454d4bd63411f2515beecb24640ab8af",
+      "bytes": 6552
+    },
+    "castigos.it.json": {
+      "path": "archivos/castigos.it-fffe066451ad.bin",
+      "sha256": "fffe066451ad3b39b6a3e127ebc00680a6370208238696db0f9adb17b8a5a17d",
+      "bytes": 6486
+    },
+    "castigos.ja.json": {
+      "path": "archivos/castigos.ja-f4b80f98ebfa.bin",
+      "sha256": "f4b80f98ebfae1aab831e418c2feba5cee4002a84c20f706f66ceee6d2b3a0c6",
+      "bytes": 6955
+    },
+    "castigos.json": {
+      "path": "archivos/castigos-4bae83c072d0.bin",
+      "sha256": "4bae83c072d030cd63a463bcc8b2dd192d84cf3816f9aa233f44f3fe2ccd0394",
+      "bytes": 8048
+    },
+    "castigos.ko.json": {
+      "path": "archivos/castigos.ko-8e7373dd588c.bin",
+      "sha256": "8e7373dd588c5f900e46be709d4699521ed7f61e0500021417b4cf31851e60e5",
+      "bytes": 6910
+    },
+    "castigos.pl.json": {
+      "path": "archivos/castigos.pl-5c27e7e1ea7b.bin",
+      "sha256": "5c27e7e1ea7b802eabc5710b48d91955bf223eae880dcd8c88c58f3524ead58e",
+      "bytes": 6766
+    },
+    "castigos.pt-BR.json": {
+      "path": "archivos/castigos.pt-BR-eda864c2c365.bin",
+      "sha256": "eda864c2c3651358170d0b96819be94beec849d5a22441f78814ebce3e7fa04b",
+      "bytes": 6296
+    },
+    "castigos.ru.json": {
+      "path": "archivos/castigos.ru-674f4bf9fd25.bin",
+      "sha256": "674f4bf9fd2531ce643b315f33f37b6ac9aa464a5d2cb1aaf44a7f84b1b0de74",
+      "bytes": 7626
+    },
+    "castigos.tr.json": {
+      "path": "archivos/castigos.tr-120b166958ce.bin",
+      "sha256": "120b166958ce2d079f665753af002f790f8a0da2d0ab8fcff93e2eb08b42b535",
+      "bytes": 6581
+    },
+    "castigos.uk.json": {
+      "path": "archivos/castigos.uk-01abddf698fa.bin",
+      "sha256": "01abddf698fac292814c3414bc97bba72b2ee812aba02bfb2d4aa67c76249eab",
+      "bytes": 7587
+    },
+    "mates-semana.json": {
+      "path": "archivos/mates-semana-f9a33a24369e.bin",
+      "sha256": "f9a33a24369ec46c6351fad4ba0cc086184a8876c01d0c72116ea3e295832f4f",
+      "bytes": 6008
+    },
+    "negras.ar.json": {
+      "path": "archivos/negras.ar-b89450ff036a.bin",
+      "sha256": "b89450ff036a162cd6b27498fc4dd846b8037cd5d8728275ba904d036bd9175f",
+      "bytes": 104119
+    },
+    "negras.de.json": {
+      "path": "archivos/negras.de-0f64e9e74985.bin",
+      "sha256": "0f64e9e749853be0607a34aaa0285278dd53d6ae5dcc6e3884934106fcf57c5e",
+      "bytes": 103821
+    },
+    "negras.el.json": {
+      "path": "archivos/negras.el-4d83f5970d0c.bin",
+      "sha256": "4d83f5970d0c0fdb0170dc3c3a23cce3a16c895cd0c36582ee9a3a6821505fc2",
+      "bytes": 115588
+    },
+    "negras.en.json": {
+      "path": "archivos/negras.en-00d1ba219f70.bin",
+      "sha256": "00d1ba219f705b389a3296ba6fc5a17c2aef374baa7cdd65339b761fa744302b",
+      "bytes": 95842
+    },
+    "negras.es-ES.json": {
+      "path": "archivos/negras.es-ES-1b37cbb44e97.bin",
+      "sha256": "1b37cbb44e97cde360ea0eb57bd5f126e351ebbceae9e00b569aa6199c9a00f4",
+      "bytes": 594
+    },
+    "negras.fr.json": {
+      "path": "archivos/negras.fr-992ce1f5c0f3.bin",
+      "sha256": "992ce1f5c0f3a8d5d2c1998364f6b4467f12c6fa28ee155567e10e86d1dde19d",
+      "bytes": 99267
+    },
+    "negras.it.json": {
+      "path": "archivos/negras.it-8f6b684028e8.bin",
+      "sha256": "8f6b684028e877171226254a5412d308ae16004533141c7b666752106a64ad3e",
+      "bytes": 96221
+    },
+    "negras.ja.json": {
+      "path": "archivos/negras.ja-34e22706976d.bin",
+      "sha256": "34e22706976d82f1c0bf11659ad05e22521d9070c13805408dac4d41906a5d5b",
+      "bytes": 102123
+    },
+    "negras.json": {
+      "path": "archivos/negras-64249e63aeb1.bin",
+      "sha256": "64249e63aeb1eacfd4c40fe3a4916b44fa9a585d0511a355bb51544723bdf281",
+      "bytes": 96607
+    },
+    "negras.ko.json": {
+      "path": "archivos/negras.ko-8c951ae1102d.bin",
+      "sha256": "8c951ae1102d8e572284db3e7deab8fd7e65cfa24eb8df41e31fb812a7b0b1fe",
+      "bytes": 97722
+    },
+    "negras.pl.json": {
+      "path": "archivos/negras.pl-2fb4f685845f.bin",
+      "sha256": "2fb4f685845f1859ab53e8feaef447f185d203552d0d8343882ee69e1e01c207",
+      "bytes": 101178
+    },
+    "negras.pt-BR.json": {
+      "path": "archivos/negras.pt-BR-451936a9a0fc.bin",
+      "sha256": "451936a9a0fcd00044c5e183d644f310a91d6b1a1b6d9902d30a3ccd7bb0492a",
+      "bytes": 95611
+    },
+    "negras.ru.json": {
+      "path": "archivos/negras.ru-654feff182a1.bin",
+      "sha256": "654feff182a1828f684eba868bdbcb9970b7c95f0423f0666f55d3fd1f92e8ba",
+      "bytes": 111938
+    },
+    "negras.tr.json": {
+      "path": "archivos/negras.tr-25fb37c60e71.bin",
+      "sha256": "25fb37c60e71d53360256854064ffcc8ea5132ea18a0f6fe0ee9d7e89b34d67b",
+      "bytes": 98100
+    },
+    "negras.uk.json": {
+      "path": "archivos/negras.uk-7c65d4319bdc.bin",
+      "sha256": "7c65d4319bdc8da550d95bfc640b19ac4f320b655bd517b0211d024d70c957fc",
+      "bytes": 114321
+    },
+    "planes.ar.json": {
+      "path": "archivos/planes.ar-84e37efa15a8.bin",
+      "sha256": "84e37efa15a86c0af3cc6cf176806d156b255e13740d737ad646a0788f9c7a07",
+      "bytes": 161296
+    },
+    "planes.de.json": {
+      "path": "archivos/planes.de-d6351ecd6185.bin",
+      "sha256": "d6351ecd61856b50cb2a091b2e881bc2d7627b8eb317169734e531dfcdbc69b9",
+      "bytes": 161630
+    },
+    "planes.el.json": {
+      "path": "archivos/planes.el-a157fe1f9bd4.bin",
+      "sha256": "a157fe1f9bd4da06bd52f9e8af2143ecee0f73b4b17dfccbe0be782d812f49fd",
+      "bytes": 182350
+    },
+    "planes.en.json": {
+      "path": "archivos/planes.en-791d87607513.bin",
+      "sha256": "791d876075137f2c88d7094ec02066457e7610428ce4ee7720aa405d90d800bd",
+      "bytes": 148248
+    },
+    "planes.es-ES.json": {
+      "path": "archivos/planes.es-ES-a88451803fe1.bin",
+      "sha256": "a88451803fe1890e94535ef6cd3bfc9af7d7485a16d6f616e0f42a69cce6c847",
+      "bytes": 1486
+    },
+    "planes.fr.json": {
+      "path": "archivos/planes.fr-956e92b32c24.bin",
+      "sha256": "956e92b32c24363d509a9f3ba9aabcae2bcf536c5fae9b06f625711179f04452",
+      "bytes": 152699
+    },
+    "planes.it.json": {
+      "path": "archivos/planes.it-1c3d3084b696.bin",
+      "sha256": "1c3d3084b696845d89175b4c08e22b1317399fc41bc69cd166096e282c9f0b24",
+      "bytes": 148457
+    },
+    "planes.ja.json": {
+      "path": "archivos/planes.ja-29c80b547725.bin",
+      "sha256": "29c80b5477256420a0f2e785e4f1ee1a0f2521caeefc7889b510e29e3c2ef087",
+      "bytes": 157647
+    },
+    "planes.json": {
+      "path": "archivos/planes-70b1cd9e12d8.bin",
+      "sha256": "70b1cd9e12d8c937d8c1b8fbbfd3d60ccea084e58396144a0888dc7d744d8250",
+      "bytes": 164116
+    },
+    "planes.ko.json": {
+      "path": "archivos/planes.ko-b7932f4472e8.bin",
+      "sha256": "b7932f4472e82eacaf4e2695e9a2413749ee4beee8bdd578c99dd5263bd344eb",
+      "bytes": 150203
+    },
+    "planes.pl.json": {
+      "path": "archivos/planes.pl-d95d7a1920a4.bin",
+      "sha256": "d95d7a1920a44e90f506539ecc09fd313d6d54209df61b5665596597d7bffbe0",
+      "bytes": 156689
+    },
+    "planes.pt-BR.json": {
+      "path": "archivos/planes.pt-BR-7bbb24982c14.bin",
+      "sha256": "7bbb24982c14adb9f6622e99d5939670a20cdad902e7c8cb63798263fc4701e8",
+      "bytes": 148740
+    },
+    "planes.ru.json": {
+      "path": "archivos/planes.ru-ce80d470c287.bin",
+      "sha256": "ce80d470c287e62cd06bad5107ba87b45094cae4d6ccf0b0be29022c573d6468",
+      "bytes": 174461
+    },
+    "planes.tr.json": {
+      "path": "archivos/planes.tr-792a15a8964d.bin",
+      "sha256": "792a15a8964de794d38ea0a5a73bb839195c9f68767ed32f22f3fd4b9dbbe1e1",
+      "bytes": 149726
+    },
+    "planes.uk.json": {
+      "path": "archivos/planes.uk-3edb57e92834.bin",
+      "sha256": "3edb57e928349e3411935a4b6bb4f5383cc59cf5087b1006207aed6481a267cc",
+      "bytes": 174901
+    },
+    "posiciones.ar.json": {
+      "path": "archivos/posiciones.ar-5d420aa0490b.bin",
+      "sha256": "5d420aa0490b596095f8834d005acecb7288b0a897a03fb9acf818f002aad186",
+      "bytes": 7325
+    },
+    "posiciones.de.json": {
+      "path": "archivos/posiciones.de-cdeab32701f5.bin",
+      "sha256": "cdeab32701f5c2d804be0b752c926eef05296db4f6d9deac2955b4d2b5b800a4",
+      "bytes": 6930
+    },
+    "posiciones.el.json": {
+      "path": "archivos/posiciones.el-8b95f929c2b7.bin",
+      "sha256": "8b95f929c2b7d8282fc397026de048b75aa58c91f55f96e103400c954040401b",
+      "bytes": 7953
+    },
+    "posiciones.en.json": {
+      "path": "archivos/posiciones.en-266fa917b768.bin",
+      "sha256": "266fa917b76826e8896878548749901de27e27f55e813f452b5f5e3845446390",
+      "bytes": 6522
+    },
+    "posiciones.fr.json": {
+      "path": "archivos/posiciones.fr-dd4ffd7564d9.bin",
+      "sha256": "dd4ffd7564d94c2169a2970e6159be70cf23119488286a5b661047b93d72ed13",
+      "bytes": 6585
+    },
+    "posiciones.it.json": {
+      "path": "archivos/posiciones.it-186f31668373.bin",
+      "sha256": "186f316683738c5c562063d93e9062e71821bdb069458db77a5756be9c81e3f8",
+      "bytes": 6474
+    },
+    "posiciones.ja.json": {
+      "path": "archivos/posiciones.ja-899088fb8557.bin",
+      "sha256": "899088fb8557b247f93c1111d5d66181af144b0a4e17db6c8cf4cbf490e8f3ed",
+      "bytes": 6767
+    },
+    "posiciones.json": {
+      "path": "archivos/posiciones-0d825fc6ccff.bin",
+      "sha256": "0d825fc6ccff45e48123a18da8fdbe0a9d2a733009cbc99f5cc0f02a75b83eba",
+      "bytes": 17007
+    },
+    "posiciones.ko.json": {
+      "path": "archivos/posiciones.ko-bd3972b6bb8d.bin",
+      "sha256": "bd3972b6bb8d9027971202c9c9cf8a36dc8c618a0a95f33dee19c08aaca61b3a",
+      "bytes": 6656
+    },
+    "posiciones.pl.json": {
+      "path": "archivos/posiciones.pl-15c3e7dfe934.bin",
+      "sha256": "15c3e7dfe934e90bffde107f2ab122184020bb68b62b1b08539502851778f3cb",
+      "bytes": 6775
+    },
+    "posiciones.pt-BR.json": {
+      "path": "archivos/posiciones.pt-BR-7db00f0e32dd.bin",
+      "sha256": "7db00f0e32dd55e09fb3b787ed8792622761f35843b0b11c9e9ed7893bf34f14",
+      "bytes": 6514
+    },
+    "posiciones.ru.json": {
+      "path": "archivos/posiciones.ru-645170677271.bin",
+      "sha256": "645170677271f0025f5685aff63725b7da9a217a85c55d9f348ac9b7459ad66e",
+      "bytes": 7699
+    },
+    "posiciones.tr.json": {
+      "path": "archivos/posiciones.tr-a1fb674a560a.bin",
+      "sha256": "a1fb674a560a4438c88789e4bfda29b6cb928362e8ec6d73462ef41674049c81",
+      "bytes": 6541
+    },
+    "posiciones.uk.json": {
+      "path": "archivos/posiciones.uk-ec8778e58d3c.bin",
+      "sha256": "ec8778e58d3c7f7019976faad304ad19da638db25b35988dff746b57337f73ea",
+      "bytes": 7624
+    },
+    "pro.ar.json": {
+      "path": "archivos/pro.ar-541f9c4dd481.bin",
+      "sha256": "541f9c4dd48192de781fa5f933dd5c3f6e713f8a0cb28fb0914cad17c23945a6",
+      "bytes": 1454
+    },
+    "pro.de.json": {
+      "path": "archivos/pro.de-222d70dffb3f.bin",
+      "sha256": "222d70dffb3fbb39140d8d9010e9e33959e8fba58db374cd8952b22af0e2be22",
+      "bytes": 1358
+    },
+    "pro.el.json": {
+      "path": "archivos/pro.el-e58f517b5a97.bin",
+      "sha256": "e58f517b5a97f77107c887506c8ba5b2bd9d79399a62afcbb933c4ca648cf234",
+      "bytes": 1673
+    },
+    "pro.en.json": {
+      "path": "archivos/pro.en-cd903e224874.bin",
+      "sha256": "cd903e2248745b6dfe77fbe3231834622c1b5a850423cffada6e37f05ee490a4",
+      "bytes": 1236
+    },
+    "pro.es-ES.json": {
+      "path": "archivos/pro.es-ES-bb77c0818caa.bin",
+      "sha256": "bb77c0818caa538f1fe490e469b52537b32d45e77f31a9f5f2a038da42761571",
+      "bytes": 91
+    },
+    "pro.fr.json": {
+      "path": "archivos/pro.fr-0566a9c6d098.bin",
+      "sha256": "0566a9c6d0985b1cf9c9c4faa93ccf54c3f5734fe33212044a47e685656c71e3",
+      "bytes": 1331
+    },
+    "pro.it.json": {
+      "path": "archivos/pro.it-a3a2b3e53a6a.bin",
+      "sha256": "a3a2b3e53a6a76a157af335a71766c6fbda47b6c4c40819d1a873725f116cff6",
+      "bytes": 1306
+    },
+    "pro.ja.json": {
+      "path": "archivos/pro.ja-de0e2f2a4faa.bin",
+      "sha256": "de0e2f2a4faa4af24a34976d4092e31b63ffb6c6bdbbcda95eb14c0e831a6d66",
+      "bytes": 1439
+    },
+    "pro.json": {
+      "path": "archivos/pro-8e67b1480344.bin",
+      "sha256": "8e67b148034445a20f044d40bfbb35bc6be33ede47bd59f5035f3ca72f6259cc",
+      "bytes": 1317
+    },
+    "pro.ko.json": {
+      "path": "archivos/pro.ko-e58465da82f9.bin",
+      "sha256": "e58465da82f940e91c4b40d27bbcf26b2ed8d3e567c4c12a20958116a91a4b78",
+      "bytes": 1391
+    },
+    "pro.pl.json": {
+      "path": "archivos/pro.pl-9b86139aefed.bin",
+      "sha256": "9b86139aefedfa96e33268e67bdee571b493135f1697580afac14c6fd94f858a",
+      "bytes": 1374
+    },
+    "pro.pt-BR.json": {
+      "path": "archivos/pro.pt-BR-2c9cd4599681.bin",
+      "sha256": "2c9cd45996811704b22f5ee983e06b3d2f663f26bfa4e6a7e866b1ffac60ba08",
+      "bytes": 1302
+    },
+    "pro.ru.json": {
+      "path": "archivos/pro.ru-880b9c6ee6d8.bin",
+      "sha256": "880b9c6ee6d8b2ae019a84db78f11092ba9842fa4eefe7f0409b148d0ffa7c51",
+      "bytes": 1610
+    },
+    "pro.tr.json": {
+      "path": "archivos/pro.tr-9548913a7d7c.bin",
+      "sha256": "9548913a7d7ce74bbb7248076a98c0f65f9a98a08af54a825d3ee01e355d27ee",
+      "bytes": 1261
+    },
+    "pro.uk.json": {
+      "path": "archivos/pro.uk-59b66969b1e4.bin",
+      "sha256": "59b66969b1e427e9ad0f620f4d9e66e7a1d870d58b9fdfa162ab3a8cef974a58",
+      "bytes": 1616
+    },
+    "ruta.json": {
+      "path": "archivos/ruta-94d8fac70031.bin",
+      "sha256": "94d8fac700318e26c1e793aac841d1e11dbf1d0c290c05dc98858f06ab7a5950",
+      "bytes": 1810
+    }
+  }
+}
