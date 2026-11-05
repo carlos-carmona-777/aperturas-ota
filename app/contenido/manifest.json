@@ -1,27 +1,27 @@
 {
-  "version": 2,
+  "version": 3,
   "schema": 2,
   "date": "2026-11-04",
   "files": {
     "blancas.ar.json": {
-      "path": "archivos/blancas.ar-953784e91ada.bin",
-      "sha256": "953784e91ada9e26f8c10d858a6631e6f5b7be2aa64bc59a595b88c493dbad22",
-      "bytes": 75373
+      "path": "archivos/blancas.ar-bff6d2c6f243.bin",
+      "sha256": "bff6d2c6f243e5450e8b119fc3c32696ba67e8c7f82a48a32da1c6151f441c2a",
+      "bytes": 114557
     },
     "blancas.de.json": {
-      "path": "archivos/blancas.de-93bbd0be4e72.bin",
-      "sha256": "93bbd0be4e72a7f805faa153ece58946b856ecacd17186089a8db282075f9bf0",
-      "bytes": 76496
+      "path": "archivos/blancas.de-e62ae6226052.bin",
+      "sha256": "e62ae6226052ae3bf64cb4493138c3173d3b14f2b97f4e4b789d02e379ae9743",
+      "bytes": 114685
     },
     "blancas.el.json": {
-      "path": "archivos/blancas.el-9cf3baad203f.bin",
-      "sha256": "9cf3baad203f20fe6cb3998d9895b67b96d979062f2f0d862e87916222f85c19",
-      "bytes": 85781
+      "path": "archivos/blancas.el-c84e6dbc02b0.bin",
+      "sha256": "c84e6dbc02b0afdc00bbb1f798e32ef5de828089fff515335c6c7c4547487397",
+      "bytes": 128692
     },
     "blancas.en.json": {
-      "path": "archivos/blancas.en-80b3689c8b23.bin",
-      "sha256": "80b3689c8b23a633453d72cddc55051f7575aa888023abd1251428944c8c6adb",
-      "bytes": 70675
+      "path": "archivos/blancas.en-d9727e2f67f0.bin",
+      "sha256": "d9727e2f67f08ed963d6716b200f4e4ee2b78a504580e69f596fb1be255b0ba2",
+      "bytes": 105885
     },
     "blancas.es-ES.json": {
       "path": "archivos/blancas.es-ES-4eac010f7dab.bin",
@@ -29,54 +29,54 @@
       "bytes": 262
     },
     "blancas.fr.json": {
-      "path": "archivos/blancas.fr-53e206476e3b.bin",
-      "sha256": "53e206476e3b9a57639090b26ff21cd082053f633265090e0c70604acda03aca",
-      "bytes": 73086
+      "path": "archivos/blancas.fr-c8a556cc76cb.bin",
+      "sha256": "c8a556cc76cbdf9bbc6caf320d5a0227b45267d03b72380794eceb0389f153e7",
+      "bytes": 109743
     },
     "blancas.it.json": {
-      "path": "archivos/blancas.it-e753d4102253.bin",
-      "sha256": "e753d41022530c77dc821380c19eba4e9c5ad26556530b5fb417f754ee4e706a",
-      "bytes": 70610
+      "path": "archivos/blancas.it-ab17c4a7c822.bin",
+      "sha256": "ab17c4a7c82291f976b2609f4dbcde9dd39fec78bbf03535e9577f70c0ea8372",
+      "bytes": 106372
     },
     "blancas.ja.json": {
-      "path": "archivos/blancas.ja-e075a62f588b.bin",
-      "sha256": "e075a62f588b4f10326e93d3977ddf388dbac2b19681b6de577a5db0df247ba7",
-      "bytes": 75318
+      "path": "archivos/blancas.ja-772e9c7887e6.bin",
+      "sha256": "772e9c7887e6136cd1c6ce8bd8fe19353f739fe0b452fcfbca560df6bd3ea5f7",
+      "bytes": 113681
     },
     "blancas.json": {
-      "path": "archivos/blancas-d34c0bad29be.bin",
-      "sha256": "d34c0bad29be4a67df9b3119585f393785a51e83fc8e96555674a40025c72d91",
-      "bytes": 76600
+      "path": "archivos/blancas-fbca99cbf1b1.bin",
+      "sha256": "fbca99cbf1b13f8abe470609d6eb2e981abe42db05b351d50a767a962c2c6ce3",
+      "bytes": 114997
     },
     "blancas.ko.json": {
-      "path": "archivos/blancas.ko-ebf9bcabcd2d.bin",
-      "sha256": "ebf9bcabcd2d7e60b937b842d6f4c171d6db93199d190c5cf823cd56e411f2f0",
-      "bytes": 71797
+      "path": "archivos/blancas.ko-2cd37c586749.bin",
+      "sha256": "2cd37c58674983b5a6f0ad1f5f97307bae109271e611aa9afb15f28b834d2323",
+      "bytes": 108083
     },
     "blancas.pl.json": {
-      "path": "archivos/blancas.pl-5789723c8764.bin",
-      "sha256": "5789723c87646005d60611ac8b7b3253c92688170f7ca023489f36ec7ac9bfb1",
-      "bytes": 74211
+      "path": "archivos/blancas.pl-267c02fa9f8c.bin",
+      "sha256": "267c02fa9f8ce7bb84029049bc2ff81701e59c147355b698c177dfca1e4beff9",
+      "bytes": 111350
     },
     "blancas.pt-BR.json": {
-      "path": "archivos/blancas.pt-BR-c982b3fd6710.bin",
-      "sha256": "c982b3fd671087908ba68ab4da6ed936d351d397b712b19d55bf3ee00ca7ac56",
-      "bytes": 70053
+      "path": "archivos/blancas.pt-BR-c57483df8947.bin",
+      "sha256": "c57483df89471797c14bc018ecfdba2f71bce5e15844cd3af2217498acca0f60",
+      "bytes": 105250
     },
     "blancas.ru.json": {
-      "path": "archivos/blancas.ru-69e280184be8.bin",
-      "sha256": "69e280184be8303e7c857532c7e80f0fccc67ac9b7ae8ca760348f70ea61b305",
-      "bytes": 83501
+      "path": "archivos/blancas.ru-1f97537f6b08.bin",
+      "sha256": "1f97537f6b08832001a20700e1904fe3566c84e4d7baf6a054f652ec4b37584c",
+      "bytes": 125145
     },
     "blancas.tr.json": {
-      "path": "archivos/blancas.tr-6be7515a8e05.bin",
-      "sha256": "6be7515a8e053597e2df8d7c6355459801ad627c3f5491bb767efdbadcdebf47",
-      "bytes": 71902
+      "path": "archivos/blancas.tr-fcaa43e171f1.bin",
+      "sha256": "fcaa43e171f1f5ce64903a2cd86a40299b21890679ed6fe0264e99d2987d76ca",
+      "bytes": 107282
     },
     "blancas.uk.json": {
-      "path": "archivos/blancas.uk-eb9ef60067ad.bin",
-      "sha256": "eb9ef60067ad3c03099ed97abe4ee817f9762398d3ecae1086f1cd9da4bc3744",
-      "bytes": 84787
+      "path": "archivos/blancas.uk-6c840c6542a7.bin",
+      "sha256": "6c840c6542a782fb7e33b4eed435c837e2227dbd1c7f7eae3606a1790705fef6",
+      "bytes": 126548
     },
     "castigos.ar.json": {
       "path": "archivos/castigos.ar-c18a3954162a.bin",
@@ -234,24 +234,24 @@
       "bytes": 114321
     },
     "planes.ar.json": {
-      "path": "archivos/planes.ar-84e37efa15a8.bin",
-      "sha256": "84e37efa15a86c0af3cc6cf176806d156b255e13740d737ad646a0788f9c7a07",
-      "bytes": 161296
+      "path": "archivos/planes.ar-9f3923cf569f.bin",
+      "sha256": "9f3923cf569f23f95d68eb483ebf7d77114061ef2fb6dcf1b98326d5300a8fcb",
+      "bytes": 198646
     },
     "planes.de.json": {
-      "path": "archivos/planes.de-d6351ecd6185.bin",
-      "sha256": "d6351ecd61856b50cb2a091b2e881bc2d7627b8eb317169734e531dfcdbc69b9",
-      "bytes": 161630
+      "path": "archivos/planes.de-20ceb5cfc950.bin",
+      "sha256": "20ceb5cfc950119b835aa1f2a9351423b47d0457bad378887c6cf00156ab8c68",
+      "bytes": 198343
     },
     "planes.el.json": {
-      "path": "archivos/planes.el-a157fe1f9bd4.bin",
-      "sha256": "a157fe1f9bd4da06bd52f9e8af2143ecee0f73b4b17dfccbe0be782d812f49fd",
-      "bytes": 182350
+      "path": "archivos/planes.el-fa5babfdcb1b.bin",
+      "sha256": "fa5babfdcb1b8e376be4886c959494f63b658363eb302dd4a1991ed28622a072",
+      "bytes": 224094
     },
     "planes.en.json": {
-      "path": "archivos/planes.en-791d87607513.bin",
-      "sha256": "791d876075137f2c88d7094ec02066457e7610428ce4ee7720aa405d90d800bd",
-      "bytes": 148248
+      "path": "archivos/planes.en-c2e221902085.bin",
+      "sha256": "c2e221902085336af71ede2610a41de36847eadb763c819729e1965ccfb75846",
+      "bytes": 182234
     },
     "planes.es-ES.json": {
       "path": "archivos/planes.es-ES-a88451803fe1.bin",
@@ -259,54 +259,54 @@
       "bytes": 1486
     },
     "planes.fr.json": {
-      "path": "archivos/planes.fr-956e92b32c24.bin",
-      "sha256": "956e92b32c24363d509a9f3ba9aabcae2bcf536c5fae9b06f625711179f04452",
-      "bytes": 152699
+      "path": "archivos/planes.fr-601bbff4d4a6.bin",
+      "sha256": "601bbff4d4a601d2e68345db952c7398d1ca2a4fa36d00c8d50c743372b099c3",
+      "bytes": 187690
     },
     "planes.it.json": {
-      "path": "archivos/planes.it-1c3d3084b696.bin",
-      "sha256": "1c3d3084b696845d89175b4c08e22b1317399fc41bc69cd166096e282c9f0b24",
-      "bytes": 148457
+      "path": "archivos/planes.it-c05d75792516.bin",
+      "sha256": "c05d75792516d66d6508daf13f51613ddf823a269b28d955c984be28763ee57e",
+      "bytes": 182788
     },
     "planes.ja.json": {
-      "path": "archivos/planes.ja-29c80b547725.bin",
-      "sha256": "29c80b5477256420a0f2e785e4f1ee1a0f2521caeefc7889b510e29e3c2ef087",
-      "bytes": 157647
+      "path": "archivos/planes.ja-30bd74968c0e.bin",
+      "sha256": "30bd74968c0e4c9ed0dae190bb28a931c416fe0e53f4a14692645a9dfa8a83a2",
+      "bytes": 192916
     },
     "planes.json": {
-      "path": "archivos/planes-70b1cd9e12d8.bin",
-      "sha256": "70b1cd9e12d8c937d8c1b8fbbfd3d60ccea084e58396144a0888dc7d744d8250",
-      "bytes": 164116
+      "path": "archivos/planes-2643b08076d9.bin",
+      "sha256": "2643b08076d95415f899d78f1ec5d4cce36ec8d6c18722463124059b4a1405a3",
+      "bytes": 201858
     },
     "planes.ko.json": {
-      "path": "archivos/planes.ko-b7932f4472e8.bin",
-      "sha256": "b7932f4472e82eacaf4e2695e9a2413749ee4beee8bdd578c99dd5263bd344eb",
-      "bytes": 150203
+      "path": "archivos/planes.ko-2c919c486988.bin",
+      "sha256": "2c919c4869885c2b6b32b663d1604c2afe1fab3326a24d5cddd50cbed0737436",
+      "bytes": 183846
     },
     "planes.pl.json": {
-      "path": "archivos/planes.pl-d95d7a1920a4.bin",
-      "sha256": "d95d7a1920a44e90f506539ecc09fd313d6d54209df61b5665596597d7bffbe0",
-      "bytes": 156689
+      "path": "archivos/planes.pl-f67d9a0657fd.bin",
+      "sha256": "f67d9a0657fdd5531b0ca0d3a7d13cb58b133f80c6756dd053f2061cf6f05660",
+      "bytes": 192448
     },
     "planes.pt-BR.json": {
-      "path": "archivos/planes.pt-BR-7bbb24982c14.bin",
-      "sha256": "7bbb24982c14adb9f6622e99d5939670a20cdad902e7c8cb63798263fc4701e8",
-      "bytes": 148740
+      "path": "archivos/planes.pt-BR-674f188107e7.bin",
+      "sha256": "674f188107e7a78a41563bba2375a60f37aa133854994fba3c15b6ec96a6fb62",
+      "bytes": 182846
     },
     "planes.ru.json": {
-      "path": "archivos/planes.ru-ce80d470c287.bin",
-      "sha256": "ce80d470c287e62cd06bad5107ba87b45094cae4d6ccf0b0be29022c573d6468",
-      "bytes": 174461
+      "path": "archivos/planes.ru-f081586d14a5.bin",
+      "sha256": "f081586d14a53233ed157b7fc5db0f3d37825feef5711d13d3f9475ad9a75300",
+      "bytes": 214446
     },
     "planes.tr.json": {
-      "path": "archivos/planes.tr-792a15a8964d.bin",
-      "sha256": "792a15a8964de794d38ea0a5a73bb839195c9f68767ed32f22f3fd4b9dbbe1e1",
-      "bytes": 149726
+      "path": "archivos/planes.tr-9a1aabe5fa5c.bin",
+      "sha256": "9a1aabe5fa5c5e5d4185c1b950337db7b064f3a9db6dccbf2488286727f79b7c",
+      "bytes": 183539
     },
     "planes.uk.json": {
-      "path": "archivos/planes.uk-3edb57e92834.bin",
-      "sha256": "3edb57e928349e3411935a4b6bb4f5383cc59cf5087b1006207aed6481a267cc",
-      "bytes": 174901
+      "path": "archivos/planes.uk-51cc7b9886b7.bin",
+      "sha256": "51cc7b9886b78012225900f6cfdb1f38cc37d703aa9ac94c5516fabdc75d9f7c",
+      "bytes": 214483
     },
     "posiciones.ar.json": {
       "path": "archivos/posiciones.ar-5d420aa0490b.bin",
@@ -454,9 +454,9 @@
       "bytes": 1616
     },
     "ruta.json": {
-      "path": "archivos/ruta-94d8fac70031.bin",
-      "sha256": "94d8fac700318e26c1e793aac841d1e11dbf1d0c290c05dc98858f06ab7a5950",
-      "bytes": 1810
+      "path": "archivos/ruta-2acab9ef6721.bin",
+      "sha256": "2acab9ef6721c2e545dac2e24364bda5a9aeddbd3efb368bf70ef01fa6ad4625",
+      "bytes": 2175
     }
   }
 }
