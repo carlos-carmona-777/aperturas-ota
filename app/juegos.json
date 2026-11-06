@@ -81,7 +81,6 @@
       "id": "aperturas",
       "bundle": "com.carloscarmona.aperturas",
       "appStore": 6821350212,
-      "estado": "pronto",
       "esquema": "aperturas",
       "nombre": "Aperturas",
       "tipo": {
@@ -162,6 +161,50 @@
         "uk": "15 початкових кидків і тактика — хід за ходом."
       },
       "color": "#1F4A3C"
+    },
+    {
+      "id": "cartasyamigos",
+      "bundle": "com.carloscarmona.cartasyamigos",
+      "appStore": 6830940707,
+      "estado": "pronto",
+      "esquema": "cartasyamigos",
+      "nombre": "Cartas y Amigos",
+      "tipo": {
+        "es": "Juegos de cartas",
+        "en": "Card games",
+        "fr": "Jeux de cartes",
+        "de": "Kartenspiele",
+        "it": "Giochi di carte",
+        "pt-BR": "Jogos de cartas",
+        "ca": "Jocs de cartes",
+        "ja": "カードゲーム",
+        "tr": "Kart oyunları",
+        "ru": "Карточные игры",
+        "pl": "Gry karciane",
+        "ar": "ألعاب ورق",
+        "el": "Παιχνίδια με κάρτες",
+        "ko": "카드 게임",
+        "uk": "Карткові ігри"
+      },
+      "texto": {
+        "es": "Tute, Escopa, Truco y más clásicos de cartas, con amigos o contra la app.",
+        "en": "Tute, Escopa, Truco and more classic card games, with friends or against the app.",
+        "fr": "Tute, Escopa, Truco et d’autres jeux de cartes classiques, entre amis ou contre l’app.",
+        "de": "Tute, Escopa, Truco und weitere Kartenklassiker, mit Freunden oder gegen die App.",
+        "it": "Tute, Escopa, Truco e altri classici di carte, con gli amici o contro l’app.",
+        "pt-BR": "Tute, Escopa, Truco e outros clássicos de cartas, com amigos ou contra o app.",
+        "ca": "Tute, Escopa, Truco i més clàssics de cartes, amb amics o contra l’app.",
+        "ja": "トゥーテ、エスコパ、トゥルコなど定番のカードゲームを、友達やアプリと。",
+        "tr": "Tute, Escopa, Truco ve diğer klasik kart oyunları; arkadaşlarınla ya da uygulamaya karşı.",
+        "ru": "Туте, Эскопа, Труко и другие классические карточные игры — с друзьями или против приложения.",
+        "pl": "Tute, Escopa, Truco i inne klasyczne gry karciane — ze znajomymi lub z aplikacją.",
+        "ar": "توتي وإسكوبا وتروكو وغيرها من ألعاب الورق الكلاسيكية، مع الأصدقاء أو ضد التطبيق.",
+        "el": "Tute, Escopa, Truco και άλλα κλασικά παιχνίδια με κάρτες, με φίλους ή με την εφαρμογή.",
+        "ko": "투테, 에스코파, 트루코 등 클래식 카드 게임을 친구와 또는 앱과 즐겨요.",
+        "uk": "Туте, Ескопа, Труко та інші класичні карткові ігри — з друзями або проти застосунку."
+      },
+      "icono": "juegos/cartasyamigos.png",
+      "color": "#A83C3C"
     }
   ]
 }
