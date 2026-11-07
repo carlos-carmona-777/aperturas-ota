@@ -121,48 +121,6 @@
       "color": "#2E5A45"
     },
     {
-      "id": "backgammon",
-      "bundle": "com.carloscarmona.backgammon",
-      "estado": "pronto",
-      "esquema": "backgammon",
-      "nombre": "Backgammon",
-      "tipo": {
-        "es": "Juego de tablero",
-        "en": "Board game",
-        "fr": "Jeu de plateau",
-        "de": "Brettspiel",
-        "it": "Gioco da tavolo",
-        "pt-BR": "Jogo de tabuleiro",
-        "ca": "Joc de tauler",
-        "ja": "ボードゲーム",
-        "tr": "Masa oyunu",
-        "ru": "Настольная игра",
-        "pl": "Gra planszowa",
-        "ar": "لعبة لوحية",
-        "el": "Επιτραπέζιο",
-        "ko": "보드게임",
-        "uk": "Настільна гра"
-      },
-      "texto": {
-        "es": "Las 15 tiradas de apertura y las tácticas, jugada a jugada.",
-        "en": "The 15 opening rolls and the tactics, move by move.",
-        "fr": "Les 15 lancers d’ouverture et la tactique, coup par coup.",
-        "de": "Die 15 Eröffnungswürfe und die Taktik, Zug um Zug.",
-        "it": "I 15 lanci d’apertura e la tattica, mossa dopo mossa.",
-        "pt-BR": "As 15 jogadas de abertura e as táticas, lance a lance.",
-        "ca": "Les 15 tirades d’obertura i la tàctica, jugada a jugada.",
-        "ja": "15通りのオープニングロールと戦術を、一手ずつ。",
-        "tr": "15 açılış zarı ve taktikler, hamle hamle.",
-        "ru": "15 стартовых бросков и тактика — ход за ходом.",
-        "pl": "15 rzutów otwarcia i taktyka — ruch po ruchu.",
-        "ar": "رميات الافتتاح الخمس عشرة والتكتيكات، نقلة بنقلة.",
-        "el": "Οι 15 ζαριές του ανοίγματος και η τακτική, κίνηση προς κίνηση.",
-        "ko": "15가지 오프닝 롤과 전술을 한 수씩 배워요.",
-        "uk": "15 початкових кидків і тактика — хід за ходом."
-      },
-      "color": "#1F4A3C"
-    },
-    {
       "id": "cartasyamigos",
       "bundle": "com.carloscarmona.cartasyamigos",
       "appStore": 6830940707,
