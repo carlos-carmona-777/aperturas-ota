@@ -81,7 +81,6 @@
       "id": "aperturas",
       "bundle": "com.carloscarmona.aperturas",
       "appStore": 6821350212,
-      "estado": "pronto",
       "esquema": "aperturas",
       "nombre": "Aperturas",
       "tipo": {
@@ -125,7 +124,6 @@
       "id": "cartasyamigos",
       "bundle": "com.carloscarmona.cartasyamigos",
       "appStore": 6830940707,
-      "estado": "pronto",
       "esquema": "cartasyamigos",
       "nombre": "Cartas y Amigos",
       "tipo": {
